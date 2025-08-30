@@ -88,7 +88,7 @@ Outputs include:
 
 
 
-## 🚀 Future Work
+## Future Work
 
 * Hyperparameter tuning with Bayesian optimization.
 * Integration of advanced embeddings (BERT, BioBERT, ClinicalBERT).
@@ -97,7 +97,7 @@ Outputs include:
 
 
 
-## 👩‍💻 Team
+## Team
 * Geshna B
 *  Katikala Dedeepya
 * Malavika S Prasad
